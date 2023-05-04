@@ -49,4 +49,4 @@ Este curso foi criado pelo instrutor Noel J. Bergman. Agradecimentos especiais Ã
 
 ## ðŸ”— Links
 
-[Coursera - LearnQuest](https://www.coursera.org/specializations/core-java)# core-java-specialization)
+[Coursera - LearnQuest] (https://www.coursera.org/specializations/core-java)
