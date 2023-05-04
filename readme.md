@@ -12,11 +12,8 @@ Coursera | LearnQuest | Instrutor Noel J. Bergman
 🚀Conteúdo do Curso.
 <br>
  - Semana 1: Introdução aos fundamentos básicos da linguagem Java.
- <br>
- - Semana 2: Revisão da programação orientada a objetos e aplicação dos conceitos de OO em Java. Introdução às classes Java, instâncias e empacotamento.
- <br>
+ - Semana 2: Revisão da programação orientada a objetos e aplicação dos conceitos de OO em Java. Introdução às classes Java, instâncias e packages.
  - Semana 3: Aprofundamento na aplicação dos conceitos de OOP em Java, incluindo herança e polimorfismo. 
- <br>
  - Semana 4: Aprendizado do uso de partes selecionadas da biblioteca de classes Java SE, incluindo Genéricos, Coleções, Java Streams, I/O, Exceções, Anotações e Enums.
 
 <br>
@@ -52,4 +49,4 @@ Este curso foi criado pelo instrutor Noel J. Bergman. Agradecimentos especiais �
 
 ## 🔗 Links
 
-[Coursera - LearnQuest](https://www.coursera.org/specializations/core-java)# core-java-specialization
+[Coursera - LearnQuest](https://www.coursera.org/specializations/core-java)# core-java-specialization)
